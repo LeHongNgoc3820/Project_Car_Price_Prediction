@@ -8,7 +8,7 @@
 
 + Using Multiple Linear Regression to forecast Car Price.
 + Matplotlib and Seaborn will be used for Data Visualization and EDA.
-+ Built prediction model with high accuracy (**88.46%**) to predict Car Price.
++ Built prediction model with high accuracy (**91.77%**) to predict Car Price.
 
 ______
 **You can contact with me on:**
@@ -17,4 +17,4 @@ ______
 + **GitHub**: https://github.com/LeHongNgoc3820
 + **Linkedln**: https://www.linkedin.com/in/ngoc-le-hong-44131b21a/
 _______
-_Make by_ **Lucas,**
+_Make by_ **Lucas,** 
