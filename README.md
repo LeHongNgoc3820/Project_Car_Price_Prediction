@@ -1,4 +1,3 @@
-
 # Forecasting Car Price using Multiple Linear Regression
 -------
 
